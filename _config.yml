@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Hang Su (Chelsea)"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Fourth year Mathematics B.S. (Physics Minor) Student at University of New Haven, MIT Kavli Institute for Astrophysics and Space Research Intern"
-url                      : https://hangsu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Hang Su"
+description              : &description "Mathematics B.S. (Physics Minor) at University of New Haven, MIT Intern"
+url                      : https://hangchelseasu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hangchelseasu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Hang Su"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a fourth year undergraduate student at University of New Haven studying Mathematics and physics minor. I am also an intern at MIT Kavli Institutefor Astrophysics and Space Research."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "hangchelseasu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/hangchelseasu"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCKa6_b7lDp9FhRfyAF9O6Bw"
   wikipedia        :
 
 
