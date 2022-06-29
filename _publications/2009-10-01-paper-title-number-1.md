@@ -2,9 +2,7 @@
 title: "Single-atom zinc catalyst for co-production of hydrogen and fine chemicals in soluble biomass solution"
 collection: publications
 permalink: /publication/2022-10-Single-atom zinc catalyst for co-production of hydrogen and fine chemicals in soluble biomass solution
-
-[//]: <excerpt: 'This paper is about the number 1. The number 2 is left for future work.'>
-
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-10
 venue: 'Advanced Powder Materials'
 paperurl: 'https://doi.org/10.1016/j.apmate.2022.100058'
