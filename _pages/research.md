@@ -14,7 +14,6 @@ Here are some highlighted projects I have worked on. Topics include theoretical 
 
 <div style="clear: both;">
   <div style="float: left; margin-right 5em;">
-    <img src="/images/Gaia_DR3.jpeg" alt="vesc corner plot" width="250" height="250">
   </div>
   <div>
   <h2>Using machine learning to catalog accreted stars in Gaia ESA DR3 survey</h2>
@@ -48,7 +47,6 @@ Here are some highlighted projects I have worked on. Topics include theoretical 
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="/images/Single_atom.jpg" alt="penrose" width="350" height="350">
   </div>
   <div>
     <h2>Single-atom zinc catalyst for co-production of hydrogen and fine chemicals in soluble biomass solution</h2>

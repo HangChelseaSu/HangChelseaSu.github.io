@@ -1,10 +1,9 @@
 ---
-permalink: /
+permalink: /talks/
 title: "Talks and Presentations"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /talks/
+  - /md/
   - /talks.html
 ---
 
