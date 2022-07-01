@@ -51,8 +51,8 @@ Here are some highlighted projects I have worked on. Topics include theoretical 
   <div>
     <h2>Single-atom zinc catalyst for co-production of hydrogen and fine chemicals in soluble biomass solution</h2>
     <p>My contribution is conducting computational calculations for energy of the reactions of 5-HMF molecules to HMFCA on the C3N4-Zn surface. The structures of 5-HMF were built by the Avogadro software. Nine geometries of any two combinations of carbon, nitrogen, zinc (on C3N4-Zn surface) bonded to the central oxygen, oxygen at the end, and oxygen on the OH (of 5-HMF) were established. We computed the final reaction energy by calculating the difference between their adsorbates (5-HMF) and the base (C3N4-Zn) combined and separated. I used Vienna Ab initio Simulation Package (VASP) calculation to optimize the geometries.
-    <br><br> Project ongoing.Published paper can be found <a href="/files/Single_atom.pdf">here</a>.
-    <br><br> Project ongoing.Supervised by: Dequan Xiao, Ph.D. (Chemistry and Chemical & Biomedical Engineering Department, University of New Haven)
+    <br><br> Published paper can be found <a href="/files/Single_atom.pdf">here</a>.
+    <br><br> Supervised by: Dequan Xiao, Ph.D. (Chemistry and Chemical & Biomedical Engineering Department, University of New Haven)
     </p>
   </div>
 </div>
