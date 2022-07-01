@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Hang Su"
-  avatar           : "MIT_headshot.JPG"
+  avatar           : "profile.png"
   bio              : "I am a fourth year undergraduate student at University of New Haven studying Mathematics and physics minor. I am also an intern at MIT Kavli Institutefor Astrophysics and Space Research."
   location         : "Cambridge, MA, USA"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "HangSu@mit.edu"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "hsu1@unh.newhaven.edu" "hangsu@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HangChelseaSu"
+  github           : "hangchelseasu"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCKa6_b7lDp9FhRfyAF9O6Bw/featured"
+  youtube          : #"https://www.youtube.com/channel/UCKa6_b7lDp9FhRfyAF9O6Bw/featured"
   wikipedia        :
 
 
