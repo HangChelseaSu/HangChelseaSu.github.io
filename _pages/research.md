@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Here are some highlighted projects I have worked on. Topics include theoretical cosmology, observational astrophysics, mathematics, computational chemistry, 
+Here are some highlighted projects I have worked on. Topics include theoretical cosmology, observational astrophysics, mathematics, and computational chemistry, 
 
 <hr style="border:1px solid gray">
 
@@ -18,8 +18,8 @@ Here are some highlighted projects I have worked on. Topics include theoretical 
   <div>
   <h2>Using machine learning to catalog accreted stars in Gaia ESA DR3 survey</h2>
     <p>I am following the machine learning framework elaborated in <a href="https://arxiv.org/abs/1907.06652">this paper</a> to develop an algorithm to determine which stars are accreted (merged with) into the Milky Way and which are in situ (born within).
-    Supervised by: Lina Necib, Ph.D. (MIT Kavli Institute for Astrophysics and Space Research)
-    MIT Summer Research Program (MSRP)
+    <br><br>Supervised by: Lina Necib, Ph.D. (MIT Kavli Institute for Astrophysics and Space Research)
+    <br><br>MIT Summer Research Program (MSRP)
     <br><br> Project ongoing.</p>
   </div>
 </div>
