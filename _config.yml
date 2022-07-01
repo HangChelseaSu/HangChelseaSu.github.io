@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hang Su (Chelsea)"
 title_separator          : "-"
 name                     : &name "Hang Su"
-description              : &description "Mathematics B.S. (Physics Minor) at University of New Haven, MIT Intern"
+description              : &description "Mathematics Major and Physics Minor at University of New Haven, MIT Intern"
 url                      : https://HangChelseaSu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HangChelseaSu/HangChelseaSu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hang Su"
   avatar           : "MIT_headshot.png"
-  bio              : "I am a fourth year undergraduate student at University of New Haven studying Mathematics and physics minor. I am also an intern at MIT Kavli Institutefor Astrophysics and Space Research."
+  bio              : "Mathematics Major and Physics Minor at University of New Haven, MIT Intern" 
   location         : "Cambridge, MA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "FelineClavicle"
+  youtube          : #"FelineClavicle"
   wikipedia        :
 
 
