@@ -13,7 +13,7 @@ name                     : &name "Hang Su"
 description              : &description "Mathematics B.S. (Physics Minor) at University of New Haven, MIT Intern"
 url                      : https://hangchelseasu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hangchelseasu.github.io"
+repository               : "HangChelseaSu/HangChelseaSu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
