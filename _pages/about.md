@@ -13,7 +13,7 @@ redirect_from:
  I speak Chinese with my family, English for academics, and Japanese to myself. 
 
 ### Here is a picture of me holding a bunch of Kirbies.
- ![Kirby](/images/Kirby.JPG)
+ <img src="/images/Kirby.JPG" width=50%/>
 
 ### Some articles about me:
 
