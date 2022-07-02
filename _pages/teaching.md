@@ -9,7 +9,7 @@ redirect_from:
 
 ## Positions at University of New Haven
 
-### Leaching Assistant
+### Learning Assistant
 
 | PHYS 2205    | Electromagnetism/Optic & lab | Spring 2022 |
 | MATH 1118    | Calculus II                  | Fall   2021 |
