@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 National Conference on Undergraduate Research (NCUR) (April 2022): 
-12 minutes of slide presentation: “Dark Energy and Dark Matter as Five-Dimensional Stereographic Projection.”
+12 minutes of slide presentation: “Dark Energy and Dark Matter as Five-Dimensional Stereographic Projection.” Click [here](/files/NCUR_PPT.pdf) for slides.
 
 Sigma Xi Student Research Conference (November 2021): 
-Poster presentation: “Dark Energy and Dark Matter as Five-Dimensional Stereographic Projection.”
+Poster presentation: “Dark Energy and Dark Matter as Five-Dimensional Stereographic Projection.” Click [here](/files/Sigma_Poster.pdf) for poster.
 
 Gulf Coast Undergraduate Research Symposium (GCURS) (October 2021): 
-15 minutes slide presentation: “Dark Energy and Dark Matter as Five-Dimensional Stereographic Projection.”
+15 minutes slide presentation: “Dark Energy and Dark Matter as Five-Dimensional Stereographic Projection.” Click [here](/files/GCURS_PPT.pdf) for slides.
 
 Summer Undergraduate Research Fellowship Showcase (October 2021): 
 Video presentation: "Can the Shape of Our Universe Explain the Dark Matter?" Click [here](https://www.youtube.com/watch?v=JWlu9btYd-I) for video.
