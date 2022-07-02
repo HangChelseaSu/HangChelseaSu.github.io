@@ -82,7 +82,7 @@ Here are some highlighted projects I have worked on. Topics include theoretical 
   </div>
   <div>
     <h2>Tangent Function as a Solution of a 3-Dimensional Functional Equation</h2>
-    <p>Taking a cue from the identity for the tangent of the sum of three angles, we form a corresponding functional equation in three vari- ables. Then, supposing the function to be differentiable, we solve the functional equation and conclude that the solution is essentially the tangent function up to a constant multiple of the argument variable. The methodology used can be understood by a student with a back- ground in multivariable calculus. 
+    <p>Taking a cue from the identity for the tangent of the sum of three angles, we form a corresponding functional equation in three variables. Then, supposing the function to be differentiable, we solve the functional equation and conclude that the solution is essentially the tangent function up to a constant multiple of the argument variable. The methodology used can be understood by a student with a background in multivariable calculus. 
     <br><br> Submitted paper can be found <a href="/files/Functional_Equation.pdf">here</a>.
     <br><br> Supervised by: Ramesh Sharma, Ph.D. (Department of Mathematics and Physics, University of New Haven) </p>
   </div>
