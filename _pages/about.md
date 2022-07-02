@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year undergraduate student at [University of New Haven](https://www.newhaven.edu/) studying Mathematics with a Physics Minor. I am also an intern at [MIT Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/). I was born in Shenzhen, China, and I have been to school in Shenzhen (China), Longkou (China), Kobe (Japan), and the US. 
+I am a fourth-year undergraduate student at [University of New Haven](https://www.newhaven.edu/) studying Mathematics with a Physics Minor. I am also an intern at [MIT Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/) doing astrophysics research with [Dr. Lina Necib](https://physics.mit.edu/faculty/lina-necib/).
 
-Check out my [cv](/files/cv.pdf).
+I speak Chinese with my family, English at school, and Japanese to myself. 
+
+Here is a picture of me holding a bunch of Kirbies.
+
+![Kirby](/images/Kirby.JPG)
 
 
-
-Charger Blog Articles about me (University of New Haven):
+Some articles about me:
 
 '[Mathematics Major to Conduct Theoretical Physics Research at MIT](https://www.newhaven.edu/news/blog/2022/hang-su.php?utm_source=2022-03-20&utm_medium=email&utm_campaign=weeklygallop)'
 
 ‘[I Have Always Been Fascinated By How Mathematics Can Describe the Distant Universe](https://www.newhaven.edu/news/blog/2021/hang-su-surf.php)’
 
-
-Here is a picture of me holding a bunch of Kirbies.
-
-![Kirby](/images/Kirby.JPG)
+If you want to learn more, check out my [cv](/files/cv.pdf).
