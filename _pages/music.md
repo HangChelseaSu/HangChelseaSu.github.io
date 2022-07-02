@@ -15,6 +15,7 @@ redirect_from:
 
  ![Salaryman](/images/salaryman.jpeg)
 
+
  The language of Japanese always holds a special place in my heart. The music that I like, both tranditional and popular, is deeply embedded in the Shinto religion and a very realistic depiction of the [Japan’s Salaryman Culture](https://medium.com/@jami3jam/the-japanese-salaryman-452692b485e5). The antagonistic hope in the lyrics can be a great motivation for gratitude and reflection. 
  
  I attempted to cover some of my favorites [here](https://www.youtube.com/channel/UCKa6_b7lDp9FhRfyAF9O6Bw).
