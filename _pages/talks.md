@@ -30,7 +30,7 @@ redirect_from:
 ### Summer Undergraduate Research Fellowship Presentation 
 * August 2021
 * 15 minutes slide presentation: “Can the Shape of Our Universe Explain the Dark Matter?”
-* Click [here](https://mycharger.newhaven.edu/documents/415169/0/Su_Hang_SURFReport_2021_FINAL.pdf/414a89ce-e511-464d-aa38-cc12d002585b) for report.
+* Click [here](/files/SURF_PPT.pdf) for slides.
 
 #### Picture of me and cohort at Gulf Coast Undergraduate Research Symposium (GCURS) at Rice University.
 ![Rice](/images/Rice.JPG)
