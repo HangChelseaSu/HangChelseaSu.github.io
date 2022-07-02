@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Here are some highlighted projects I have worked on. Topics include theoretical cosmology, observational astrophysics, mathematics, and computational chemistry, 
+Here are some of my selected projects. Topics include theoretical cosmology, observational astrophysics, mathematics, and computational chemistry. 
 
 <hr style="border:1px solid gray">
 
