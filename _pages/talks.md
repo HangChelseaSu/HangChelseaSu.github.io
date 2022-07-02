@@ -21,3 +21,7 @@ Video presentation: "Can the Shape of Our Universe Explain the Dark Matter?" Cli
 
 Summer Undergraduate Research Fellowship Presentation (August 2021): 
 15 minutes slide presentation: “Can the Shape of Our Universe Explain the Dark Matter?”
+
+Picture of me and cohort at Gulf Coast Undergraduate Research Symposium (GCURS) at Rice University.
+![Rice](/images/Rice.JPG)
+

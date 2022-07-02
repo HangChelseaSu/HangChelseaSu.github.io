@@ -14,6 +14,7 @@ Here are some highlighted projects I have worked on. Topics include theoretical 
 
 <div style="clear: both;">
   <div style="float: left; margin-right 5em;">
+    <img src="/images/Toomre.png" alt="merger gif" width="350" height="350">
   </div>
   <div>
   <h2>Using machine learning to catalog accreted stars in Gaia ESA DR3 survey</h2>

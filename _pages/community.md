@@ -13,6 +13,9 @@ Organizer of SURF 2022 Alumni Panel
 
 Volunteer at the Undergraduate Open House
 
-Courageous Conversations: The Rise in Anti-Asian Violence Panelist
+Panelist of the [Courageous Conversations](https://www.newhaven.edu/news/blog/2021/supporting-aapi-community.php): The Rise in Anti-Asian Violence
 
-Chinese Student and Scholar Association President
+President of the Chinese Student and Scholar Association
+
+Picture of our open house for perspective high school students:
+![Open_House](/images/Open_House.png)
