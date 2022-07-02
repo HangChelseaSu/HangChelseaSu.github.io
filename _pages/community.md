@@ -9,15 +9,15 @@ redirect_from:
 
 >When one cares, one wields power.
 
-## Positions at University of New Haven
+# Positions at University of New Haven
 
-### Organizer of SURF 2022 Alumni Panel
+## Organizer of SURF 2022 Alumni Panel
 
-### Volunteer at the Undergraduate Open House
+## Volunteer at the Undergraduate Open House
 
-### Panelist of the [Courageous Conversations](https://www.newhaven.edu/news/blog/2021/supporting-aapi-community.php): The Rise in Anti-Asian Violence
+## Panelist of the [Courageous Conversations](https://www.newhaven.edu/news/blog/2021/supporting-aapi-community.php): The Rise in Anti-Asian Violence
 
-### President of the Chinese Student and Scholar Association
+## President of the Chinese Student and Scholar Association
 
-##### Picture of our math program open house for perspective high school students.
-![Open_House](/images/Open_House.png)
+### Picture of our math program open house for perspective high school students.
+ ![Open_House](/images/Open_House.png)
