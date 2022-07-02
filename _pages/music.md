@@ -7,9 +7,7 @@ redirect_from:
   - /music.html
 ---
 
-### [John Cage](https://en.wikipedia.org/wiki/John_Cage): 
-
->The first question I ask myself when something doesn't seem to be beautiful is why do I think it's not beautiful. And very shortly you discover that there is no reason.
+>The first question I ask myself when something doesn't seem to be beautiful is why do I think it's not beautiful. And very shortly you discover that there is no reason. –––– [John Cage](https://en.wikipedia.org/wiki/John_Cage)
 
 : I am not professionally trained in music, while the most important reason why I keep trying is that I enjoy it. I play the piano since I was young, but I find singing more addicting as for now.
 

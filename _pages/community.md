@@ -7,6 +7,8 @@ redirect_from:
   - /community.html
 ---
 
+>When one cares, one wields power.
+
 ## Positions at University of New Haven
 
 ### Organizer of SURF 2022 Alumni Panel
