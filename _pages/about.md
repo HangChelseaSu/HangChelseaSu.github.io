@@ -19,3 +19,8 @@ Charger Blog Articles about me (University of New Haven):
 '[Mathematics Major to Conduct Theoretical Physics Research at MIT](https://www.newhaven.edu/news/blog/2022/hang-su.php?utm_source=2022-03-20&utm_medium=email&utm_campaign=weeklygallop)'
 
 ‘[I Have Always Been Fascinated By How Mathematics Can Describe the Distant Universe](https://www.newhaven.edu/news/blog/2021/hang-su-surf.php)’
+
+
+Here is a picture of me holding a bunch of Kirbies.
+
+![Kirby](/images/Kirby.JPG)
