@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 ### National Conference on Undergraduate Research (NCUR) 
-: April 2022
-: 12 minutes of slide presentation: “Dark Energy and Dark Matter as Five-Dimensional Stereographic Projection.” 
-: Click [here](/files/NCUR_PPT.pdf) for slides.
+* April 2022
+* 12 minutes of slide presentation: “Dark Energy and Dark Matter as Five-Dimensional Stereographic Projection.” 
+* Click [here](/files/NCUR_PPT.pdf) for slides.
 
 ### Sigma Xi Student Research Conference 
 : November 2021 

@@ -19,7 +19,6 @@ redirect_from:
 
 
 ### Undergraduate Peer Tutor
-
 :   August 2020 – May 2022
 :   CRLA International Tutor and Mentor Training Program Certification Level 2
 :   Popular supported classes:
