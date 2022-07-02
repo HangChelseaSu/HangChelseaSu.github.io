@@ -19,5 +19,5 @@ redirect_from:
 
 ### President of the Chinese Student and Scholar Association
 
-##### Picture of our math program open house for perspective high school students
+##### Picture of our math program open house for perspective high school students.
 ![Open_House](/images/Open_House.png)
