@@ -7,7 +7,8 @@ redirect_from:
   - /music.html
 ---
 
->The first question I ask myself when something doesn't seem to be beautiful is why do I think it's not beautiful. And very shortly you discover that there is no reason **.**.(space, space, .) –––– [John Cage](https://en.wikipedia.org/wiki/John_Cage)
+> The first question I ask myself when something doesn't seem to be beautiful is why do I think it's not beautiful. And very shortly you discover that there is no reason
+> –––– [John Cage](https://en.wikipedia.org/wiki/John_Cage)
 
 
 
