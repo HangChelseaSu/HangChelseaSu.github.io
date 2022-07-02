@@ -12,10 +12,10 @@ redirect_from:
 
  I speak Chinese with my family, English for academics, and Japanese to myself. 
 
-#### Here is a picture of me holding a bunch of Kirbies.
- ![Kirby](/images/Kirby.JPG)
+### Here is a picture of me holding a bunch of Kirbies.
+ <img src="/images/Kirby.JPG"  width=50%>
 
-
+ 
 ### Some articles about me:
 
  '[Mathematics Major to Conduct Theoretical Physics Research at MIT](https://www.newhaven.edu/news/blog/2022/hang-su.php?utm_source=2022-03-20&utm_medium=email&utm_campaign=weeklygallop)'
