@@ -19,9 +19,9 @@ redirect_from:
 
 
 ### Undergraduate Peer Tutor
-:   August 2020 – May 2022
-:   CRLA International Tutor and Mentor Training Program Certification Level 2
-:   Popular supported classes:
+*   August 2020 – May 2022
+*   CRLA International Tutor and Mentor Training Program Certification Level 2
+*   Popular supported classes:
 
 | PHYS 1150    | Mechanics, Heat, and Waves & Lab
 | PHYS 2205    | Electromagnetism/Optic & Lab                 
