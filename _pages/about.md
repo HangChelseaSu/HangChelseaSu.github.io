@@ -23,4 +23,4 @@ redirect_from:
 
  ‘[I Have Always Been Fascinated By How Mathematics Can Describe the Distant Universe](https://www.newhaven.edu/news/blog/2021/hang-su-surf.php)’
 
-> If you want to learn more, check out my [cv](/files/cv.pdf).
+> If you want to learn more, check out my [cv](/files/Hang_Su_CV.pdf).
