@@ -12,7 +12,7 @@ redirect_from:
 
  I speak Chinese with my family, English for academics, and Japanese to myself. 
 
-### Here is a picture of me holding a bunch of Kirbies.
+### Here is a picture of me holding a Kirby bouquet.
  <p>
   <img alt="Kirby" src="/images/Kirby.JPG" width="50%">
 </p>
