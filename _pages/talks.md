@@ -12,7 +12,7 @@ redirect_from:
  * 12 minutes of slide presentation: “Dark Energy and Dark Matter as Five-Dimensional Stereographic Projection.” 
  * Click [here](/files/NCUR_PPT.pdf) for slides.
 
-## Sigma Xi Student Research Conference 
+## Sigma Xi Student Research Conference
  * November 2021 
  * Poster presentation: “Dark Energy and Dark Matter as Five-Dimensional Stereographic Projection.” 
  * Click [here](/files/Sigma_Poster.pdf) for poster.
