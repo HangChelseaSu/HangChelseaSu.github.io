@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I am a fourth-year undergraduate student at [University of New Haven](https://www.newhaven.edu/) studying Mathematics with a Physics Minor. I am also an intern at [MIT Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/) doing astrophysics research with [Dr. Lina Necib](https://physics.mit.edu/faculty/lina-necib/).
+ I am a fourth-year undergraduate student at [University of New Haven](https://www.newhaven.edu/) studying Mathematics with a Physics Minor. I am also an intern at [MIT Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/) doing astrophysics research with [Prof. Lina Necib](https://physics.mit.edu/faculty/lina-necib/).
 
  I speak Chinese with my family, English for academics, and Japanese to myself. 
 
