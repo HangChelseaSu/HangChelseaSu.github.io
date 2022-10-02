@@ -17,7 +17,9 @@ redirect_from:
   <img alt="Kirby" src="/images/Kirby.JPG" width="50%">
 </p>
 
-### Some articles about me:
+### Some articles/pages about me:
+
+ '[MSRP 2022 Intern Profile](https://oge.mit.edu/msrp/profiles/hang-su/)'
 
  '[Mathematics Major to Conduct Theoretical Physics Research at MIT](https://www.newhaven.edu/news/blog/2022/hang-su.php?utm_source=2022-03-20&utm_medium=email&utm_campaign=weeklygallop)'
 
