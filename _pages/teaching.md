@@ -26,7 +26,7 @@ redirect_from:
 
  | PHYS 1150    | Mechanics, Heat, and Waves & Lab
  | PHYS 2205    | Electromagnetism/Optic & Lab                 
- | MATH 1118    | Calculus II                     
+ | MATH 1118    | Calculus II
  | MATH 2203    | Calculus III
  | MATH 2228    | Elementary Statistics 
  | CHEM 1115    | General Chemistry I & Lab
