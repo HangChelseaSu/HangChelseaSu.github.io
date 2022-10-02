@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /talks.html
 ---
-## Summer MKI Undergraduate Research Forum
+## Summer MKI Undergraduate Research Forum  
  * August 2022
  * 10 minutes of slide presentation: "Using Machine Learning to Catalog Accreted Stars in Gaia ESA DR3 Survey."
  * Click [here](/files/SMURF_Presentation.pdf) for slides.
