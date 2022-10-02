@@ -11,10 +11,10 @@ redirect_from:
 
 ### Learning Assistant
 
- | PHYS 2205    | Electromagnetism/Optics & Lab| Spring 2022 |
- | MATH 1118    | Calculus II                  | Fall   2021 |
- | MATH 1118    | Calculus II                  | Spring 2021 |
- | MATH 1118    | Calculus II                  | Fall   2022 |
+ | PHYS 2205    | Electromagnetism/Optics & Lab | Spring 2022 |
+ | MATH 1118    | Calculus II                   | Fall   2021 |
+ | MATH 1118    | Calculus II                   | Spring 2021 |
+ | MATH 1118    | Calculus II                   | Fall   2022 |
 
 
 
