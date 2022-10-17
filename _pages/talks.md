@@ -6,6 +6,12 @@ redirect_from:
   - /md/
   - /talks.html
 ---
+
+## Gulf Coast Undergraduate Research Symposium (GCURS) 
+ * October 2022
+ * 15 minutes slide presentation: “Using Machine Learning to Catalog Accreted Stars in Gaia ESA DR3 Survey.” 
+ * Click [here](/files/GCURS2022_presentation_updated.pdf) for slides.
+
 ## Summer MKI Undergraduate Research Forum  
  * August 2022
  * 10 minutes of slide presentation: "Using Machine Learning to Catalog Accreted Stars in Gaia ESA DR3 Survey."
