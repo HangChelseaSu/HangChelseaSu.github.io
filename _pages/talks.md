@@ -7,7 +7,16 @@ redirect_from:
   - /talks.html
 ---
 
-## Gulf Coast Undergraduate Research Symposium (GCURS) 
+## Department Seminar
+ * November 2022
+ * 1 hour talk: “Undergraduate Research Experience from Differential Equations to Theoretical Astrophysics.”
+
+## Northeastern Section/Mathematical Association of America Fall 2022 Conference
+ * November 2022
+ * 18 minutes slide presentation: “Tangent Function As A Solution Of A 3-Dimensional Functional Equation.”
+ * Click [here](/files/Tangent_Function_Presentation.pdf) for slides.
+
+## Honorable Menion, Gulf Coast Undergraduate Research Symposium (GCURS) 
  * October 2022
  * 15 minutes slide presentation: “Using Machine Learning to Catalog Accreted Stars in Gaia ESA DR3 Survey.” 
  * Click [here](/files/GCURS2022_presentation_updated.pdf) for slides.

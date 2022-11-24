@@ -7,6 +7,11 @@ redirect_from:
   - /teaching.html
 ---
 
+
+
+## Amity Science Research Mentor, Amity Regional High School
+ * Served as the main supervisor/mentor for a computational chemistry project.
+
 ## Positions at University of New Haven
 
 ### Learning Assistant
