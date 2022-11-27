@@ -66,7 +66,7 @@ Here are some of the projects I haven been working on throughout my undergraduat
     <img src="/images/Gaussian16.png" alt="lattice gif" width="400" height="400">
   </div>
   <div>
-    <h2>Atmospheric and Computational Chemistry</h2>
+    <h2>Computational Analysis on Nucleation Mechanisms of Atmospheric Nitrate and Ammonia Clusters.</h2>
     <p>As the lead in the computation of the project, I wrote bash scripts and ran optimization jobs on ABCluster and Gaussian. The initial geometries are constructed using Avogadro software. Clusters are formed and optimized by ABCluster, and subsequently Gaussian16 is used to further optimize the selected geometries and deliver the lowest energy geometry. I started with up to 1000 structures and each step reduces the number of geometries by a factor of 10.
     <br><br> Supervised by: Chong Qiu, Ph.D., Dequan Xiao, Ph.D. (Chemical Engineering Department, University of New Haven)
     <br><br> Project ongoing.</p>
