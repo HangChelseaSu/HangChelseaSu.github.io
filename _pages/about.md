@@ -21,6 +21,8 @@ redirect_from:
 
  '[MSRP 2022 Intern Profile](https://oge.mit.edu/msrp/profiles/hang-su/)'
 
+ '[Mathematics Major, Management Professor Earn Prestigious Bucknall Awards](https://www.newhaven.edu/news/blog/2022/bucknall-awards.php)
+
  '[Mathematics Major to Conduct Theoretical Physics Research at MIT](https://www.newhaven.edu/news/blog/2022/hang-su.php?utm_source=2022-03-20&utm_medium=email&utm_campaign=weeklygallop)'
 
  ‘[I Have Always Been Fascinated By How Mathematics Can Describe the Distant Universe](https://www.newhaven.edu/news/blog/2021/hang-su-surf.php)’
