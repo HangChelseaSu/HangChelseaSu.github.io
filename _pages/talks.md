@@ -31,16 +31,6 @@ redirect_from:
  * Poster presentation: "Using Machine Learning to Catalog Accreted Stars in Gaia ESA DR3 Survey."
  * Click [here](/files/MSRP_Poster.pdf) for poster.
 
-## Summer MKI Undergraduate Research Forum
- * August 2022
- * 10 minutes of slide presentation: "Using Machine Learning to Catalog Accreted Stars in Gaia ESA DR3 Survey."
- * Click [here](/files/SMURF_Presentation.pdf) for slides.
-
-## 2022 MIT Summer Research Poster Session
- * August 2022
- * Poster presentation: "Using Machine Learning to Catalog Accreted Stars in Gaia ESA DR3 Survey."
- * Click [here](/files/MSRP_Poster.pdf) for poster.
-
 ## National Conference on Undergraduate Research (NCUR) 
  * April 2022
  * 12 minutes of slide presentation: “Dark Energy and Dark Matter as Five-Dimensional Stereographic Projection.” 
