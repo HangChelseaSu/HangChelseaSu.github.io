@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
- I am a fourth-year undergraduate student at [University of New Haven](https://www.newhaven.edu/) studying Mathematics with a Physics Minor. I am also an intern at [MIT Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/) doing astrophysics research with [Prof. Lina Necib](https://physics.mit.edu/faculty/lina-necib/).
+ I will be attending the University of Michigan, Ann Arbor, in 2024 to pursue a PhD degree in Astronomy and Astrophysics. I am also an intern at [Periemter Institute for Theoretical Physics](https://perimeterinstitute.ca/) and [MIT Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/) doing astrophysics research.
 
- I speak Chinese with my family, English for academics, and Japanese to myself. 
-
-### Here is a picture of me holding a Kirby bouquet.
+### Here is a picture of me and my pup named Fermi at a dog show.
  <p>
-  <img alt="Kirby" src="/images/Kirby.JPG" width="50%">
+  <img alt="Fermi" src="/images/Fermi.JPG" width="50%">
 </p>
 
 ### Some articles/pages about me:

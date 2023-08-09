@@ -8,7 +8,27 @@ redirect_from:
 ---
 
 {% include base_path %}
-Here are some of the projects I haven been working on throughout my undergraduate study. Topics include theoretical cosmology, observational astrophysics, mathematics, and computational chemistry. 
+Here are some of the projects I haven been working on throughout my undergraduate study. Topics include theoretical cosmology, astrophysics, mathematics, and computational chemistry. 
+
+<hr style="border:1px solid gray">
+
+<div style="clear: both;">
+  <div style="float: left; margin-right 5em;">
+    <img src="/images/CBBH.png" alt="merger gif" width="350" height="350">
+  </div>
+  <div>
+  <h2>Plasma Dynamics Around Eccentric Binary Black Holes </h2>
+    <p>I explored how eccentric orbits affect gas around binary black holes (BBHs). We performed Python analysis on simulations run by DISCO hydrodynamics code for astrophysical disks mainly to answer these two questions:
+      1.Does a stable eccentricity point exist?
+      2.How to determine the radius of a minidisk and would its total mass reach a certain stable value?
+    <br><br>Supervised by: Geoffrey Ryan, Ph.D.; Luciano Combi, Ph.D.(Perimeter Institute for Theoretical Physics)
+    <br><br>MIT Summer Research Program (MSRP)
+      <br><br> GitHub repo can be found <a href="https://github.com/HangChelseaSu/Black_Hole_Accretion_Project_PI.git">here</a>. </p>
+  </div>
+</div>
+
+<br clear="left"/>
+<hr style="border:1px solid gray">
 
 <hr style="border:1px solid gray">
 
@@ -17,11 +37,12 @@ Here are some of the projects I haven been working on throughout my undergraduat
     <img src="/images/Toomre.png" alt="merger gif" width="350" height="350">
   </div>
   <div>
-  <h2>Using machine learning to catalog accreted stars in Gaia ESA DR3 survey</h2>
+  <h2>Using Machine Learning to Catalog Accreted Stars in Gaia ESA DR3 Survey</h2>
     <p>I am following the machine learning framework elaborated in <a href="https://arxiv.org/abs/1907.06652">this paper</a> to develop an algorithm to determine which stars are accreted (merged with) into the Milky Way and which are in situ (born within).
     <br><br>Supervised by: Lina Necib, Ph.D. (MIT Kavli Institute for Astrophysics and Space Research)
     <br><br>MIT Summer Research Program (MSRP)
-    <br><br> Project ongoing.</p>
+    <br><br> Project ongoing.
+    </p>
   </div>
 </div>
 

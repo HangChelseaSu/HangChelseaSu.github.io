@@ -7,6 +7,11 @@ redirect_from:
   - /talks.html
 ---
 
+## 2023 PSI START Poster Session
+ * August 2023
+ * Poster presentation: “Plasma Dynamics Around Eccentric Binary Black Holes.”
+ * Click [here](/files/Hang_Su_PSI_START_poster.pdf) for poster.
+
 ## Department Seminar
  * November 2022
  * 1 hour talk: “Undergraduate Research Experience from Differential Equations to Theoretical Astrophysics.”
