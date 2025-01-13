@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I will be attending the University of Michigan, Ann Arbor, in 2024 to pursue a PhD degree in Astronomy and Astrophysics. I am also an intern at [Periemter Institute for Theoretical Physics](https://perimeterinstitute.ca/) and [MIT Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/) doing astrophysics research.
+ <!-- I will be attending the University of Michigan, Ann Arbor, in 2024 to pursue a PhD degree in Astronomy and Astrophysics. I am also an intern at [Periemter Institute for Theoretical Physics](https://perimeterinstitute.ca/) and [MIT Kavli Institute for Astrophysics and Space Research](https://space.mit.edu/) doing astrophysics research. -->
 
 ### Here is a picture of me and my pup named Fermi at a dog show.
  <p>
